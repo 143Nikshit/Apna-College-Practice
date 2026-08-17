@@ -1,0 +1,29 @@
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.eye {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50%;
+    margin: 20px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 50px;
+}
+
+.smile {
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 0 0px 330px 330px;
+    border: 2px solid black;
+}
